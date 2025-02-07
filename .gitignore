@@ -1,0 +1,7 @@
+# Ignoriere Build-Ordner und IDE-Dateien
+build/
+out/
+test/
+.DS_Store
+.gradle/
+.idea/
